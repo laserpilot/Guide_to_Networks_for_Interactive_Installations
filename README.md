@@ -27,6 +27,7 @@ That said, if you have ideas or want to contribute - please fork and submit a pu
     * ZMQ
     * TCP
     * UDP
+    * MQTT
 * Monitoring
     * Uptime monitoring
     * Network/Wifi tools for Mac
